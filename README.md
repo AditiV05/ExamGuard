@@ -59,14 +59,6 @@ Co-built the React + Vite frontend that integrates with the Roboflow API. Implem
 
 ---
 
-## 📸 Screenshots
-
-| Demo Interface | Detection Result |
-|:--------------:|:----------------:|
-| ![Demo](./screenshots/hero.png) | ![Result](./screenshots/result.png) |
-
----
-
 ## 🔮 Future Work
 
 - Real-time video stream processing (currently single-image)
